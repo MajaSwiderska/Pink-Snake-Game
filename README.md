@@ -2,6 +2,9 @@
 
 A colorful and playful Snake Game built using HTML, CSS, and JavaScript. This version features an **extra cute** cartoon-style light purple snake with sparkling eyes, rosy cheeks, and a happy smile! Eat raspberries, grow your snake, and enjoy the grass-themed game board. The game works on desktop and mobile devices, with both keyboard and touch controls.
 
+# Screenshot
+<img width="1878" height="916" alt="Screenshot 2026-05-27 110142" src="https://github.com/user-attachments/assets/9a5533f1-f885-466b-bf54-80da01175d5d" />
+
 ## ✨ Current Features
 
 -   **🐍 Cartoon Snake** – A light purple snake with big sparkly eyes, a big smile, rosy cheeks, and even a tiny floating heart above its head! Each body segment has a soft gradient and inner shine.
